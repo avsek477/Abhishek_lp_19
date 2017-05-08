@@ -1,0 +1,19 @@
+4. 
+
+As a PM for the startup of a company, considering all the pros and cons for a startup, I would suggest that building a website would be the best way to go. As for a broader outreach of marketing , a website would be a place to start. At a certain point, we need both a website and a mobile app, but it’s pretty safe to say that it rarely makes sense to build an app without already having a website in place.
+The choice of building website over an app for a startup company can be identified as reasonable by the help of the following points.
+1. Compatibilty: A website can be accessible to any mobile user(Android, iPhone, Windows) or a computer user. Whereas, development of mobile apps requires a separate version for each type of device.
+2. Time and Cost: As a startup company, it is necessary for a PM to make economical decisions. As websites are easier and more time and cost-effective than the mobile app development, website would be a best way for a startup.
+3. Support and Maintenance: Only the initial launch of a website or mobile app isnt enough, properly maintaining an app is much more expensive and involved than maintaining a website over time.
+4. Easy to setup: Deployment of website doesnt need sumbitting apps to app stores, we just need  a domain and hosting.
+5. Website linked to social media: As people nowadays mostly use social media such as Facebook, it would to easier to advertise the product as websites can be easily linked to facebook nowadays for advertisement.
+
+Planning for the website, the following would be my priorities.
+
+1. Highlighting the key factors that inhibits the job of the company.
+2. Properly viewing the designs available within the company.
+3. Proper information on the delivery system.
+4. Constantly updating the features and services provided by the company.
+
+  
+	

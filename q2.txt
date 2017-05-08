@@ -1,0 +1,24 @@
+public class Palindrome {
+    public static void main(String[] args) {
+        int product;
+        int greatest = 0;
+        for (int i = 100; i<1000; i++){
+            for (int j=100; j<1000; j++){
+                product = i*j;
+                int temp = product;
+                int remainder;
+                int reverse =0;
+                while(product!=0){
+                    remainder = product%10;
+                    reverse = reverse*10 + remainder;
+                    product /=10;
+                }
+                if(temp == reverse){
+                    if(temp>greatest)
+                        greatest = temp;
+                }
+            }
+        }
+        System.out.println(greatest);
+    }
+}

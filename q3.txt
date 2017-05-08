@@ -1,0 +1,10 @@
+3. 
+
+In order to examine a test login page, I would follow the following procedure:
+
+1. First, I would perform a postive test case by signing in with a valid login in order to be sure of some of the expected functions of the login. Then, I would close the browser and reopen to see if I am still logged in or not.
+2. Secondly, I would focus on the management of the session of the user i.e. is it through web sessions or via cookies.
+3. Third, Sign in, then logout and then try to go back to the login page in order to ensure that the user is truly logged out or not.
+4. Now, I would sign in from a browser, and then try to see if I can sign in again or not through another browser.
+5. Lastly, I would change the password of the user and logout and then try to see if I can login with my old password or not. 
+ 
