@@ -65,16 +65,16 @@ public class LinkedList {
        
             LinkedList llist = new LinkedList();
 
-            llist.push(7);
             llist.push(1);
-            llist.push(3);
             llist.push(2);
-            llist.push(8);
+            llist.push(3);
+            llist.push(4);
+            llist.push(5);
 
             System.out.println("\nCreated Linked list is: ");
             llist.printList();
 
-            llist.deleteNode(4);  // Delete node at position 4
+            llist.deleteNode(1);  // Delete node at position 1; position starts from 0
 
             System.out.println("\nLinked List after Deletion at position 4: ");
             llist.printList();
