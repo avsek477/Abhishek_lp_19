@@ -76,7 +76,7 @@ public class LinkedList {
 
             llist.deleteNode(1);  // Delete node at position 1; position starts from 0
 
-            System.out.println("\nLinked List after Deletion at position 4: ");
+            System.out.println("\nLinked List after Deletion at position 1: ");
             llist.printList();
         }
     } 
