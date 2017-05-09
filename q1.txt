@@ -65,11 +65,11 @@ public class LinkedList {
        
             LinkedList llist = new LinkedList();
 
-            llist.push(1);
-            llist.push(2);
-            llist.push(3);
-            llist.push(4);
             llist.push(5);
+            llist.push(4);
+            llist.push(3);
+            llist.push(2);
+            llist.push(1);
 
             System.out.println("\nCreated Linked list is: ");
             llist.printList();
